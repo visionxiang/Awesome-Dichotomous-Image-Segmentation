@@ -21,7 +21,7 @@ An awesome collection of resources and papers on Dichotomous Image Segmentation 
 | 2023     | arXiv    | Bilateral Reference for High-Resolution Dichotomous Image Segmentation   <br> <sup><sub>*Peng Zheng, Dehong Gao, Deng-Ping Fan, Li Liu, Jorma Laaksonen, Wanli Ouyang, Nicu Sebe*</sub></sup>  | [Paper](https://arxiv.org/abs/2401.03407)/Code
 | 2023     | arXiv    | Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation   <br> <sup><sub>*Xianjie Liu, Keren Fu, Qijun Zhao*</sub></sup>  | [Paper](https://arxiv.org/abs/2401.00248)/Code
 | 2023     | ACM MM   | Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy Dichotomous Image Segmentation  <br> <sup><sub>*Jialun Pei, Zhangjun Zhou, Yueming Jin, He Tang, and Pheng-Ann Heng*</sub></sup>  | [Paper](https://arxiv.org/abs/2307.14052)/[Code](https://github.com/PJLallen/UDUN) 
-| 2023     | IJCAI    | Dichotomous Image Segmentation with Frequency Priors `DIS5K V1.0`     <br> <sup><sub>*Yan Zhou, Bo Dong, Yuanfeng Wu, Wentao Zhu, Geng Chen, Yanning Zhang*</sub></sup>  | [Paper](https://www.ijcai.org/proceedings/2023/202)/[Code](https://github.com/dongbo811/FP-DIS)
+| 2023     | IJCAI    | Dichotomous Image Segmentation with Frequency Priors      <br> <sup><sub>*Yan Zhou, Bo Dong, Yuanfeng Wu, Wentao Zhu, Geng Chen, Yanning Zhang*</sub></sup>  | [Paper](https://www.ijcai.org/proceedings/2023/202)/[Code](https://github.com/dongbo811/FP-DIS)
 
 
 
@@ -29,7 +29,7 @@ An awesome collection of resources and papers on Dichotomous Image Segmentation 
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
-| 2022    | ECCV | Highly Accurate Dichotomous Image Segmentation   <br> <sup><sub>*Xuebin Qin, Hang Dai, Xiaobin Hu, Deng-Ping Fan, Ling Shao, Luc Van Gool*</sub></sup>  | [Paper](https://arxiv.org/abs/2203.03041)/[Code](https://github.com/xuebinqin/DIS)/[Proj](https://xuebinqin.github.io/dis/index.html)
+| 2022    | ECCV | Highly Accurate Dichotomous Image Segmentation  `DIS5K V1.0`   <br> <sup><sub>*Xuebin Qin, Hang Dai, Xiaobin Hu, Deng-Ping Fan, Ling Shao, Luc Van Gool*</sub></sup>  | [Paper](https://arxiv.org/abs/2203.03041)/[Code](https://github.com/xuebinqin/DIS)/[Proj](https://xuebinqin.github.io/dis/index.html)
 
 
 
