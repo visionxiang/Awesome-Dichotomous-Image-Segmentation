@@ -13,6 +13,13 @@ An awesome collection of resources and papers on Dichotomous Image Segmentation 
 ## DIS
 
 
+### 2024 
+
+| **Year** | **Pub.** | **Title**          | **Links**        |
+| :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| 2024     | CVPR    | Multi-view Aggregation Network for Dichotomous Image Segmentation   <br> <sup><sub>*Qian Yu, Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2404.07445)/[Code](https://github.com/qianyu-dlut/MVANet)
+
+
 
 ### 2023 
 
