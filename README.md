@@ -18,6 +18,8 @@ An awesome collection of resources and papers on Dichotomous Image Segmentation 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
 | 2024     | CVPR    | Multi-view Aggregation Network for Dichotomous Image Segmentation   <br> <sup><sub>*Qian Yu, Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2404.07445)/[Code](https://github.com/qianyu-dlut/MVANet)
+| 2024     | AIR    | Bilateral Reference for High-Resolution Dichotomous Image Segmentation   <br> <sup><sub>*Peng Zheng, Dehong Gao, Deng-Ping Fan, Li Liu, Jorma Laaksonen, Wanli Ouyang, Nicu Sebe*</sub></sup>  | [Paper](https://arxiv.org/abs/2401.03407)/[Code](https://github.com/ZhengPeng7/BiRefNet)
+| 2024     | TVC   | Boundary-aware dichotomous image segmentation      <br> <sup><sub>*Tang, Haonan and Chen, Shuhan and Liu, Yang and Wang, Shiyu and Chen, Zeyu and Hu, Xuelong*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s00371-024-03295-5)/[Code](https://github.com/m0ho/Boundary-Aware-Dichotomous-Image-Segmentation)
 
 
 
@@ -25,7 +27,6 @@ An awesome collection of resources and papers on Dichotomous Image Segmentation 
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
-| 2023     | AIR    | Bilateral Reference for High-Resolution Dichotomous Image Segmentation   <br> <sup><sub>*Peng Zheng, Dehong Gao, Deng-Ping Fan, Li Liu, Jorma Laaksonen, Wanli Ouyang, Nicu Sebe*</sub></sup>  | [Paper](https://arxiv.org/abs/2401.03407)/[Code](https://github.com/ZhengPeng7/BiRefNet)
 | 2023     | arXiv    | Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation   <br> <sup><sub>*Xianjie Liu, Keren Fu, Qijun Zhao*</sub></sup>  | [Paper](https://arxiv.org/abs/2401.00248)/Code
 | 2023     | ACM MM   | Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy Dichotomous Image Segmentation  <br> <sup><sub>*Jialun Pei, Zhangjun Zhou, Yueming Jin, He Tang, and Pheng-Ann Heng*</sub></sup>  | [Paper](https://arxiv.org/abs/2307.14052)/[Code](https://github.com/PJLallen/UDUN) 
 | 2023     | IJCAI    | Dichotomous Image Segmentation with Frequency Priors      <br> <sup><sub>*Yan Zhou, Bo Dong, Yuanfeng Wu, Wentao Zhu, Geng Chen, Yanning Zhang*</sub></sup>  | [Paper](https://www.ijcai.org/proceedings/2023/202)/[Code](https://github.com/dongbo811/FP-DIS)
