@@ -1,10 +1,14 @@
-# Awesome-Dichotomous-Image-Segmentation
-An awesome collection of resources and papers on Dichotomous Image Segmentation (DIS).
+# <p align="center">Awesome-Dichotomous-Image-Segmentation</p>
+<p align="center">🔥 An awesome collection of resources and papers on Dichotomous Image Segmentation (DIS).🔥</p>   
+
+<p align="center">Dichotomous Image Segmentation (DIS) | Medical DIS | HRSOD</p>  
+
+**<p align="center">[Last updated at 2024/09/28]</p>**   
 
 
 <!--
 ## Content:  
-- [Camouflaged Object Detection (COD)](#COD)
+- [xxx](#xxx)
 
 --------------------------------------------------------------------------------------
 -->
@@ -17,6 +21,7 @@ An awesome collection of resources and papers on Dichotomous Image Segmentation 
 
 | **Year** | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| 2024     | NeurIPS | <sup>`MaskFactory`</sup>  | MaskFactory: Towards High-quality Synthetic Data Generation For Dichotomous Image Segmentation    <br> <sup><sub>*Haotian Qian, Yinda Chen, Shengtao Lou, Fahad Khan, Xiaogang Jin, Deng-Ping Fan*</sub></sup>  | Paper\|Code
 | 2024     | CVPR    | <sup>`MVANet`</sup>  | Multi-view Aggregation Network for Dichotomous Image Segmentation   <br> <sup><sub>*Qian Yu, Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2404.07445)\|[Code](https://github.com/qianyu-dlut/MVANet)
 | 2024     | AIR    | <sup>`BiRefNet`</sup>  |Bilateral Reference for High-Resolution Dichotomous Image Segmentation   <br> <sup><sub>*Peng Zheng, Dehong Gao, Deng-Ping Fan, Li Liu, Jorma Laaksonen, Wanli Ouyang, Nicu Sebe*</sub></sup>  | [Paper](https://arxiv.org/abs/2401.03407)\|[Code](https://github.com/ZhengPeng7/BiRefNet)
 | 2024     | TNNLS  |  <sup>`FSANet`</sup>  | High-Precision Dichotomous Image Segmentation With Frequency and Scale Awareness    <br> <sup><sub>*Qiuping Jiang; Jinguang Cheng; Zongwei Wu; Runmin Cong; Radu Timofte*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10638122)\|[Code](https://github.com/chasecjg/FSANet)
