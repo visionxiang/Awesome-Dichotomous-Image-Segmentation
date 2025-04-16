@@ -3,7 +3,7 @@
 
 <p align="center">Dichotomous Image Segmentation (DIS) | Medical DIS | HRSOD</p>  
 
-**<p align="center">[Last updated at 2024/09/28]</p>**   
+**<p align="center">[Last updated at 2025/04]</p>**   
 
 
 <!--
@@ -16,12 +16,18 @@
 
 ## DIS
 
+### 2025
+
+| **Year** | **Pub.** | **Model** | **Title**          | **Links**        |
+| :------: | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| 2024 | PR | <sup>`S2DiNet`</sup>  | S2DiNet: Towards lightweight and fast high-resolution dichotomous image segmentation    <br> <sup><sub>*Shuhan Chen, Haonan Tang, Yuan Huang, Lifeng Zhang, Xuelong Hu*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001669)\|Code
+
 
 ### 2024 
 
 | **Year** | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
-| 2024     | NeurIPS | <sup>`MaskFactory`</sup>  | MaskFactory: Towards High-quality Synthetic Data Generation For Dichotomous Image Segmentation    <br> <sup><sub>*Haotian Qian, Yinda Chen, Shengtao Lou, Fahad Khan, Xiaogang Jin, Deng-Ping Fan*</sub></sup>  | Paper\|Code
+| 2024     | NeurIPS | <sup>`MaskFactory`</sup>  | MaskFactory: Towards High-quality Synthetic Data Generation For Dichotomous Image Segmentation    <br> <sup><sub>*Haotian Qian, Yinda Chen, Shengtao Lou, Fahad Khan, Xiaogang Jin, Deng-Ping Fan*</sub></sup>  | [Paper](https://arxiv.org/abs/2412.19080)\|[Code](https://qian-hao-tian.github.io/MaskFactory/)
 | 2024     | CVPR    | <sup>`MVANet`</sup>  | Multi-view Aggregation Network for Dichotomous Image Segmentation   <br> <sup><sub>*Qian Yu, Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2404.07445)\|[Code](https://github.com/qianyu-dlut/MVANet)
 | 2024     | AIR    | <sup>`BiRefNet`</sup>  |Bilateral Reference for High-Resolution Dichotomous Image Segmentation   <br> <sup><sub>*Peng Zheng, Dehong Gao, Deng-Ping Fan, Li Liu, Jorma Laaksonen, Wanli Ouyang, Nicu Sebe*</sub></sup>  | [Paper](https://arxiv.org/abs/2401.03407)\|[Code](https://github.com/ZhengPeng7/BiRefNet)
 | 2024     | TNNLS  |  <sup>`FSANet`</sup>  | High-Precision Dichotomous Image Segmentation With Frequency and Scale Awareness    <br> <sup><sub>*Qiuping Jiang; Jinguang Cheng; Zongwei Wu; Runmin Cong; Radu Timofte*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10638122)\|[Code](https://github.com/chasecjg/FSANet)
