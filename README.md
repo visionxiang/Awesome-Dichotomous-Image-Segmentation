@@ -1,17 +1,21 @@
-# <p align="center">Awesome-Dichotomous-Image-Segmentation</p>
+# <p align="center">Awesome Dichotomous Image Segmentation</p>
 <p align="center">🔥 An awesome collection of resources and papers on Dichotomous Image Segmentation (DIS).🔥</p>   
 
-<p align="center">Dichotomous Image Segmentation (DIS) | Medical DIS | HRSOD</p>  
+<p align="center">DIS | Medical DIS | HRSOD</p>  
 
 **<p align="center">[Last updated at 2025/04]</p>**   
 
 
-<!--
-## Content:  
-- [xxx](#xxx)
+
+## 📚 Table of Contents:  
+- [DIS](#DIS)
+- [Medical DIS](#Medical-DIS)
+- [HRSOD](#HRSOD)
+- [Datasets](#Datasets)
+
 
 --------------------------------------------------------------------------------------
--->
+
 
 
 ## DIS
@@ -19,8 +23,10 @@
 ### 2025
 
 | **Year** | **Pub.** | **Model** | **Title**          | **Links**        |
-| :------: | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
-| 2024 | PR | <sup>`S2DiNet`</sup>  | S2DiNet: Towards lightweight and fast high-resolution dichotomous image segmentation    <br> <sup><sub>*Shuhan Chen, Haonan Tang, Yuan Huang, Lifeng Zhang, Xuelong Hu*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001669)\|Code
+| :------: | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- | 
+| 2025 | ICCV | <sup>`LawDIS`</sup>  | LawDIS: Language-Window-based Controllable Dichotomous Image Segmentation   <br> <sup><sub>*Xinyu Yan, Meijun Sun, Ge-Peng Ji, Fahad Shahbaz Khan, Salman Khan, Deng-Ping Fan*</sub></sup>  | [Paper](https://arxiv.org/abs/2508.01152)\|[Code](https://github.com/XinyuYanTJU/LawDIS)  
+| 2025 | ICLR | <sup>`DiffDIS`</sup>  | High-Precision Dichotomous Image Segmentation via Probing Diffusion Capacity   <br> <sup><sub>*Qian Yu, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2410.10105)\|[Code](https://github.com/qianyu-dlut/DiffDIS)  
+| 2025 | PR | <sup>`S2DiNet`</sup>  | S2DiNet: Towards lightweight and fast high-resolution dichotomous image segmentation    <br> <sup><sub>*Shuhan Chen, Haonan Tang, Yuan Huang, Lifeng Zhang, Xuelong Hu*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001669)\|Code
 
 
 ### 2024 
@@ -80,9 +86,7 @@ High-Resolution Salient Object Detection (HRSOD)
 
 
 
-
-
-### Dataset 
+## Datasets
 
 | **Name** | **Year** | **Pub.**       |  **Desc.**        |  
 | :------: | :------: | :-------------- | :--------- |
